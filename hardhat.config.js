@@ -28,7 +28,7 @@ module.exports = {
     
     "optimism": {
        url:" https://opt-mainnet.g.alchemy.com/v2/4z7p2LjAJyUJF1IFfjqPs0ocpqPaG_86",
-       accounts: [ "c330fa5574b2e03a5b54ed5f7dafa88da55a0221ec11f2b771b2a90ceb9eb687" ]
+       accounts: [ "" ]
     }
   }
 };
